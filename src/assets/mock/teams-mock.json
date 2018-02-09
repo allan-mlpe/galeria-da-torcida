@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Santa Cruz",
+        "crest": "assets/crests/SantaCruz.png",
+        "goal-summary": "Ajude o Terror do Nordeste a construir seu CT!",
+        "goal-full": ""
+    },
+    {
+        "name": "Bahia",
+        "crest": "assets/crests/bahia.png",
+        "goal-summary": "Ajude o Tricolor de Aço continuar jogando na Fonte Nova!",
+        "goal-full": ""
+    },
+    {
+        "name": "Ceará",
+        "crest": "assets/crests/ceara.png",
+        "goal-summary": "Ajude o Vozão a se manter na Série A!",
+        "goal-full": ""
+    },
+    {
+        "name": "Sport Recife",
+        "crest": "assets/crests/sport.png",
+        "goal-summary": "Ajude o Leão a transformar a Ilha em uma Arena!",
+        "goal-full": ""
+    },
+    {
+        "name": "Náutico",
+        "crest": "assets/crests/nautico.png",
+        "goal-summary": "Ajude o Timbu a voltar para os Aflitos!",
+        "goal-full": ""
+    }
+]
