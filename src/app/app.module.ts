@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { NavbarComponent } from './views/navbar/navbar.component';
 import { IntroProjectComponent } from './views/intro-project/intro-project.component';
 import { TeamsComponent } from './views/teams/teams.component';
+import { FooterComponent } from './views/footer/footer.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavbarComponent,
     IntroProjectComponent,
-    TeamsComponent
+    TeamsComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
