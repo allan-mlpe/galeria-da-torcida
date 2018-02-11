@@ -8,6 +8,7 @@ import { IntroProjectComponent } from './views/intro-project/intro-project.compo
 import { TeamsComponent } from './views/teams/teams.component';
 import { FooterComponent } from './views/footer/footer.component';
 import { BannerComponent } from './views/banner/banner.component';
+import { AppRoutingModule } from './app.routing.module';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { BannerComponent } from './views/banner/banner.component';
   ],
   imports: [
     BrowserModule,
-    HttpClientModule
+    HttpClientModule,
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]
